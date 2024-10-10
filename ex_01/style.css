@@ -38,16 +38,16 @@ input {
     padding: 0.5rem 0;
     border-bottom: 2px solid #d3d3d3;
     box-shadow: none;
-    color: #111;
+    color: rgb(148, 78, 191)1;
 }
 
 input:focus + label {
-    color: green;
+    color: rgb(148, 78, 191);
     line-height: 15px;
 }
 
 label {
-    color: green;
+    color: rgb(148, 78, 191);
     background-color: #ffffff;
     transition: all 1s ease-out;
   }
