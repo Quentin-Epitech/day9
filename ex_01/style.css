@@ -5,14 +5,12 @@ body {
     padding: 0;
     display: flex;
     height: 100vh;
-    font-family: Roboto, serif;
-}
+    font-family: Roboto, serif;}
 
 form {
     margin: auto;
     display: flex;
-    width: 400px;
-}
+    width: 400px;}
 
 .input-field {
     position: relative;
@@ -36,7 +34,7 @@ input {
     padding: 0.5rem 0;
     border-bottom: 2px solid #d3d3d3;
     box-shadow: none;
-    color: rgb(148, 78, 191)1;}
+    color: rgb(148, 78, 191);}
 
 input:focus + label {
     color: rgb(148, 78, 191);
