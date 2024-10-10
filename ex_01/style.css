@@ -19,8 +19,7 @@ form {
     width: 250px;
     height: 44px;
     line-height: 44px;
-    margin: auto;
-}
+    margin: auto;}
 
 label {
     position: absolute;
@@ -28,8 +27,7 @@ label {
     left: 0;
     width: 100%;
     color: #d3d3d3;
-    cursor: text;
-}
+    cursor: text;}
 
 input {
     width: 100%;
@@ -38,22 +36,18 @@ input {
     padding: 0.5rem 0;
     border-bottom: 2px solid #d3d3d3;
     box-shadow: none;
-    color: rgb(148, 78, 191)1;
-}
+    color: rgb(148, 78, 191)1;}
 
 input:focus + label {
     color: rgb(148, 78, 191);
-    line-height: 15px;
-}
+    line-height: 15px;}
 
 label {
     color: rgb(148, 78, 191);
     background-color: #ffffff;
-    transition: all 1s ease-out;
-  }
+    transition: all 1s ease-out;}
 
 label:hover,
 label:focus {
   color: #ffffff;
-  background-color: #fff;
-}
+  background-color: #fff;}
